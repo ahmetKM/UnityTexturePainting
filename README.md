@@ -8,7 +8,7 @@ https://ahmetkm.github.io/UnityTexturePainting/
 Örnek Dosya Upload İşlemi
 </br>
 </br>
-![tshirt Foto Upload](https://user-images.githubusercontent.com/34060992/128600104-ba80dc4b-a61f-4f72-ba05-14fb684cbf03.gif)
+![slayer](https://user-images.githubusercontent.com/34060992/128607149-103d1a7f-9c2e-4dd1-b22e-56e7079ab9be.gif)
 </br>
 </br>
 Örnek Hazır Logo Ekleme İşlemi

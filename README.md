@@ -1,5 +1,5 @@
 # UnityTexturePainting
-Unity WebGL ile forma üzerinde yazı, logo ekleme uygulaması
+WebGL ile forma üzerinde yazı, logo ekleme uygulaması
 </br>
 Canlı Uygulama Adresi:
 https://ahmetkm.github.io/UnityTexturePainting/
